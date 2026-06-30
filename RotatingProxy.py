@@ -3,7 +3,7 @@ import random
 
 # Her seferinde farklı session_number = farklı IP
 payload = {
-    'api_key': '695f4e476a4cd1c9af4571efcbf49958',
+    'api_key': 'YOUR API',
     'url': 'https://urwebsite.com/', <type here which website u want to do proxy
     'country_code': 'be',
     'device_type': 'desktop',
