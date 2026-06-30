@@ -4,7 +4,7 @@ import time
 
 for i in range(5):  # 5 farklı istek gönder
     payload = {
-        'api_key': '695f4e476a4cd1c9af4571efcbf49958',
+        'api_key': 'YOUR API',
         'url': 'https://httpbin.org/ip',
         'session_number': str(random.randint(1000, 999999))
     }
